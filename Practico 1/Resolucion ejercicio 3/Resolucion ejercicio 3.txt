@@ -1,0 +1,5 @@
+git status
+//Crea indice
+git status
+git add indice.txt
+git status
