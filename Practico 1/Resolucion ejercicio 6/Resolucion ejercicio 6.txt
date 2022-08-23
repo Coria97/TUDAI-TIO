@@ -1,0 +1,4 @@
+git log
+git add capitulo1
+git commit -m "aniadiendo capitulo 1"
+git log

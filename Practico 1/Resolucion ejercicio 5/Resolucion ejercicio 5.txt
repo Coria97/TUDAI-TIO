@@ -1,0 +1,3 @@
+git status
+git add indice.txt
+git commit -m "Añadido capítulo 3 sobre gestión de ramas"

@@ -1,0 +1,4 @@
+git config --global user.email santiagocoria@live.com.ar
+git config --global user.name Coria97
+git config --global color.ui auto
+git config --list

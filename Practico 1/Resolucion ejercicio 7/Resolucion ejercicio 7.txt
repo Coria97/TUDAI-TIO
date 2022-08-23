@@ -1,0 +1,12 @@
+git add Capitulo 2
+git commit -m "aniadiendo capitulo 2"
+git diff (investigar como hacer para ver el estado con 2 cambios atras)
+
+
+//Posible solucion, pero estatica.
+
+git add Capitulo 2
+git commit -m "aniadiendo capitulo 2"
+git log
+//Copio el hash de dos commit atras
+git diff da829ab5541a93e0e3aa488aa839fa4ae53899f6
