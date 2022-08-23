@@ -1,6 +1,6 @@
 git add Capitulo 2
 git commit -m "aniadiendo capitulo 2"
-git diff (investigar como hacer para ver el estado con 2 cambios atras)
+git diff HEAD~2
 
 
 //Posible solucion, pero estatica.
